@@ -1,0 +1,30 @@
+# Node modules
+node_modules/
+
+# Build outputs
+dist/
+build/
+
+# TypeScript build info
+**/*.tsbuildinfo
+
+# Environment variables
+**/*.env
+
+# IDE directories
+.idea/
+.vscode/
+
+# Turbo cache
+.turbo/
+
+# Logs
+logs/
+*.log
+
+# Coverage reports
+coverage/
+
+# Temporary files
+temp/
+tmp/
